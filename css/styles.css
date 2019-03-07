@@ -4,7 +4,7 @@
   
   Site details
   • Font-- Roboto: weights 300, 400, 500, 700
-  • Color-- Black #000000 / Blue #FF2C2C; / White: #ffffff
+  • Color-- Black #000000 / Blue #FF2E56; / White: #ffffff
 */
 
 
@@ -74,7 +74,7 @@ h1#home-message {
 }
 
 h1#home-message span {
-    color: #FF2C2C;
+    color: #FF2E56;
 }
 
 /* Video */
@@ -116,12 +116,12 @@ h1#home-message span {
 /* Anchor tags */
 
 a, a:focus, a:visited {
-	color: #FF2C2C;
+	color: #FF2E56;
 	font-weight: 600;
 }
 
 a:hover {
-	color: #FF2C2C;
+	color: #FF2E56;
 }
 
 /* Selection highlighting */
@@ -129,22 +129,22 @@ a:hover {
 ::-moz-selection {
 	/* Code for Firefox */
 	color: #ffffff;
-	background: #FF2C2C;
+	background: #FF2E56;
 }
 
 ::selection {
 	color: #ffffff;
-	background: #FF2C2C;
+	background: #FF2E56;
 }
 
 ::selection {
-	background: #FF2C2C;
+	background: #FF2E56;
 	/* WebKit/Blink Browsers */
 	color: #ffffff;
 }
 
 ::-moz-selection {
-	background: #FF2C2C;
+	background: #FF2E56;
 	/* Gecko Browsers */
 	color: #ffffff;
 }
@@ -268,7 +268,7 @@ button h2, .button h2 {
 }
 
 .nav-list a:hover {
-	border-bottom: 3px solid #FF2C2C;
+	border-bottom: 3px solid #FF2E56;
 }
 
 /* Footer navigation */
